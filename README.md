@@ -9,4 +9,4 @@ links:
 - web: https://tomasek.work/en.html (https://tomasek.work - CZ)
 - Twitter: https://twitter.com/TomasekJachym
 - Google Dev: https://g.dev/ToasekJachym
-- E+mail: projects-info[at]tomasek[dot]work
+- E-mail: projects-info[at]tomasek[dot]work
